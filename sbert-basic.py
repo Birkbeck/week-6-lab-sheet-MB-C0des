@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import os
+
 
 from sentence_transformers import SentenceTransformer
 from sklearn.decomposition import PCA
